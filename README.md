@@ -1,2 +1,0 @@
-# TextValidator
-Created with CodeSandbox
